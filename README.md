@@ -2,6 +2,9 @@
 # IBM Applied Data Science
 # Part of IBM Data Science Professional Certificate
 
+To see complete presentation including folium map, use Jupyter Notebook Viewer link below:
+https://nbviewer.jupyter.org/github/RubyonRails2018/Coursera_Capstone/blob/master/Applied%20Data%20Science_Week%203.ipynb
+
 Repository for IBM Applied Data Science Capstone course:
 Week 3 Capstone Project which includes:
 
